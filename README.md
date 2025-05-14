@@ -1,6 +1,6 @@
 ****Supply Chain Analysis Project**
 
-**📘 Project Overview**
+**📘 Project Overview** : 
 The Supply Chain Analysis project delivers actionable insights into the supply chain operations of a company. By analyzing a detailed dataset covering product sales, inventory, supplier performance, shipping, and customer satisfaction, the project provides recommendations to:
 
 Optimize supply chain processes
@@ -9,7 +9,7 @@ Reduce operational costs
 
 Enhance overall customer satisfaction
 
-**📊 Data Description**
+**📊 Data Description** :
 The dataset used in this project includes the following key features:
 
 Product Information: Type, SKU, price, and availability
@@ -26,7 +26,7 @@ Customer Information: Demographics of purchasing customers
 
 Quality Control: Inspection results and defect rates
 
-**🔍 Analysis Steps**
+**🔍 Analysis Steps** : 
 1.Data Extraction and Cleaning
 
 --> Extracted data from source systems and cleaned it for consistency
