@@ -12,70 +12,70 @@ Enhance overall customer satisfaction
 **📊 Data Description** :
 The dataset used in this project includes the following key features:
 
-Product Information: Type, SKU, price, and availability
+**Product Information**: Type, SKU, price, and availability
 
-Sales Data: Number of units sold and revenue generated
+**Sales Data**: Number of units sold and revenue generated
 
-Inventory Metrics: Stock levels, order quantities, lead times
+**Inventory Metrics**: Stock levels, order quantities, lead times
 
-Logistics Details: Shipping times, carriers, costs, modes, and routes
+**Logistics Details**: Shipping times, carriers, costs, modes, and routes
 
-Supplier Details: Names, defect rates, and manufacturing costs
+**Supplier Details**: Names, defect rates, and manufacturing costs
 
-Customer Information: Demographics of purchasing customers
+**Customer Information**: Demographics of purchasing customers
 
-Quality Control: Inspection results and defect rates
+**Quality Control**: Inspection results and defect rates
 
 **🔍 Analysis Steps** : 
-1.Data Extraction and Cleaning
+**1.Data Extraction and Cleaning**
 
 --> Extracted data from source systems and cleaned it for consistency
 
 --> Removed irrelevant characters (e.g., %, commas) for standardization
 
-2.Sales and Revenue Analysis
+**2.Sales and Revenue Analysis**
 
 --> Identified top-selling products and revenue contributors
 
 --> Helped determine which products drive growth
 
-3.Inventory Analysis
+**3.Inventory Analysis**
 
 --> Evaluated stock levels and lead times
 
 --> Optimized inventory to prevent stockouts and overstocking
 
-4.Supplier and Location Analysis
+**4.Supplier and Location Analysis**
 
 --> Ranked suppliers based on defect rates
 
 --> Analyzed shipping costs by region to identify high-expense areas
 
-5.Quality Control Analysis
+**5.Quality Control Analysis**
 
 --> Categorized complaints (defects, delays, damages)
 
 --> Identified root causes to improve product and delivery quality
 
-6.Customer Demographics Analysis
+**6.Customer Demographics Analysis**
 
 Profiled customer segments based on purchasing patterns
 
 Aided in targeting high-value customers with marketing strategies
 
-7.Shipping Efficiency Analysis
+**7.Shipping Efficiency Analysis**
 
 --> Compared shipping times to lead times
 
 --> Identified inefficiencies and opportunities to improve logistics
 
-8.Cost Analysis
+**8.Cost Analysis**
 
 --> Investigated manufacturing and shipping costs
 
 --> Highlighted areas for cost-cutting and supplier renegotiation
 
-9.Complaint Analysis
+**9.Complaint Analysis**
 
 --> Used calculated fields to classify complaints
 
